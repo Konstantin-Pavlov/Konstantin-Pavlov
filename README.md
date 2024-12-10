@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/konstantin-pavlov-b50a65158)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/konstantin-pavlov-b50a65158)
 [![Telegram](https://img.shields.io/badge/Telegram-%2300A8E8.svg?logo=telegram&logoColor=white)](https://t.me/SPBdreamer)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:konstpavlov87@gmail.com)
 
