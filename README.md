@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, my name is Konstantin 👋
+My professional experience includes: proficiency in Java, understanding of OOP principles, skills in writing SQL queries for databases, experience in creating automated tests, knowledge of the software development lifecycle, ability to work with version control systems (Git), as well as an advanced level of English.
+
+I approach problem-solving in a comprehensive way, quickly adapt to new technologies and workflows. I am a team player, open to constructive criticism, and strive for continuous improvement in development and testing processes.
 
 <!--
 **Konstantin-Pavlov/Konstantin-Pavlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
