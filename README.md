@@ -45,11 +45,10 @@ Here are some ideas to get you started:
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-<!-- find icons -->
-![Keycloak](https://img.shields.io/badge/Keycloak-000?style=for-the-badge&logo=keycloak&logoColor=white) 
-![selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium&logoColor=white)
-![selenide](https://img.shields.io/badge/Selenide-000?style=for-the-badge&logo=selenide&logoColor=white)
-![alure-report](https://img.shields.io/badge/Alure_report-000?style=for-the-badge&logo=alure_report&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-000?style=for-the-badge&logo=keycloak&logoColor=white)                    <!-- find icon -->
+![selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium&logoColor=white)                    <!-- find icon -->
+![selenide](https://img.shields.io/badge/Selenide-000?style=for-the-badge&logo=selenide&logoColor=white)                    <!-- find icon -->
+![alure-report](https://img.shields.io/badge/Alure_report-000?style=for-the-badge&logo=alure_report&logoColor=white)        <!-- find icon -->
 
 
 # 📊 GitHub Stats:
